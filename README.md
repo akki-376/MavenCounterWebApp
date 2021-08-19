@@ -4,6 +4,6 @@ Trigerring job by SCM polling Test
 github-webhook/
 
 Code changes
-New changes from github
+New changes from github.
 
 
